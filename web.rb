@@ -12,3 +12,39 @@ end
 get '/home' do
   erb :index
 end
+
+get '/musica' do
+  erb :musica
+end
+
+get '/audios' do
+  erb :audios
+end
+
+get '/videos' do
+  erb :videos
+end
+
+get '/letras' do
+  erb :letras
+end
+
+get '/recitales' do
+  erb :recitales
+end
+
+get '/proximos' do
+  erb :proximos
+end
+
+get '/pasados' do
+  erb :pasados
+end
+
+get '/entradas' do
+  erb :entradas
+end
+
+get '/merchandising' do
+  erb :merchandising
+end
