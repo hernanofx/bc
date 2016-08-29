@@ -48,3 +48,15 @@ end
 get '/merchandising' do
   erb :merchandising
 end
+
+get '/mas' do
+  erb :mas
+end
+
+get '/multimedia' do
+  erb :multimedia
+end
+
+get '/recitales' do
+  erb :recitales
+end
