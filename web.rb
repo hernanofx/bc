@@ -60,3 +60,7 @@ end
 get '/recitales' do
   erb :recitales
 end
+
+get '/subviews/locabohemia' do
+  erb :locabohemia
+end
