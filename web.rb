@@ -57,8 +57,8 @@ get '/multimedia' do
   erb :multimedia
 end
 
-get '/recitales' do
-  erb :recitales
+get '/shows' do
+  erb :shows
 end
 
 get '/locabohemia' do
