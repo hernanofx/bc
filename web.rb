@@ -64,3 +64,11 @@ end
 get '/locabohemia' do
   erb :locabohemia
 end
+
+get '/salon' do
+  erb :salon
+end
+
+get '/fiestadelaflor' do
+  erb :fiestadelaflor
+end
