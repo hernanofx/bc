@@ -58,7 +58,7 @@ get '/multimedia' do
 end
 
 get '/shows' do
-  erb :shows
+  erb :'secciones/shows'
 end
 
 get '/locabohemia' do
