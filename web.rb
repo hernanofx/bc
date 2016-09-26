@@ -41,11 +41,6 @@ get '/pasados' do
   erb :'secciones/pasados'
 end
 
-get '/pasados2' do
-  erb :'secciones/pasados2'
-end
-
-
 get '/entradas' do
   erb :'secciones/entradas'
 end
