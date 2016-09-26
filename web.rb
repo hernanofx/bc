@@ -14,47 +14,47 @@ get '/home' do
 end
 
 get '/musica' do
-  erb :musica
+  erb :'secciones/musica'
 end
 
 get '/audios' do
-  erb :audios
+  erb :'secciones/audios'
 end
 
 get '/videos' do
-  erb :videos
+  erb :'secciones/videos'
 end
 
 get '/letras' do
-  erb :letras
+  erb :'secciones/letras'
 end
 
 get '/recitales' do
-  erb :recitales
+  erb :'secciones/recitales'
 end
 
 get '/proximos' do
-  erb :proximos
+  erb :'secciones/proximos'
 end
 
 get '/pasados' do
-  erb :pasados
+  erb :'secciones/pasados'
 end
 
 get '/entradas' do
-  erb :entradas
+  erb :'secciones/entradas'
 end
 
 get '/merchandising' do
-  erb :merchandising
+  erb :'secciones/merchandising'
 end
 
 get '/mas' do
-  erb :mas
+  erb :'secciones/mas'
 end
 
 get '/multimedia' do
-  erb :multimedia
+  erb :'secciones/multimedia'
 end
 
 get '/shows' do
@@ -66,16 +66,17 @@ get '/locabohemia' do
 end
 
 get '/salon' do
-  erb :salon
+  erb :'fechas/salon'
 end
 
 get '/whitevinyl' do
-  erb :whitevinyl
+  erb :'fechas/whitevinyl'
 end
+
 get '/pquesaavedra' do
-  erb :pquesaavedra
+  erb :'fechas/pquesaavedra'
 end
 
 get '/fiestadelaflor' do
-  erb :fiestadelaflor
+  erb :'fechas/fiestadelaflor'
 end
