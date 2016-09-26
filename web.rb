@@ -69,6 +69,13 @@ get '/salon' do
   erb :salon
 end
 
+get '/whitevinyl' do
+  erb :whitevinyl
+end
+get '/pquesaavedra' do
+  erb :pquesaavedra
+end
+
 get '/fiestadelaflor' do
   erb :fiestadelaflor
 end
