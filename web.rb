@@ -62,7 +62,7 @@ get '/shows' do
 end
 
 get '/locabohemia' do
-  erb :fechas/locabohemia
+  erb :'fechas/locabohemia'
 end
 
 get '/salon' do
