@@ -57,6 +57,10 @@ get '/multimedia' do
   erb :'secciones/multimedia'
 end
 
+get '/nosotros' do
+  erb :'secciones/nosotros'
+end
+
 get '/shows' do
   erb :'secciones/shows'
 end
