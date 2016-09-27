@@ -1999,9 +1999,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 }
 
 
-/*
-Variaciones de color al pasar el mouse
-*/
+/* Variaciones de color al pasar el mouse */
 
 #social-fb:hover {
     color: #3B5998;
@@ -2030,3 +2028,8 @@ Variaciones de color al pasar el mouse
 #social-ho:hover {
     color: #0A9C14;
 }
+
+/* Puntero del mouse en slide */
+
+.mySlides {display:none}
+.cursor {cursor:pointer}
