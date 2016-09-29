@@ -2033,3 +2033,9 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 
 .mySlides {display:none}
 .cursor {cursor:pointer}
+
+/* Fuente para el menu */
+.menufont {
+    font-size: 16px;
+font-family: 'Aclonica', sans-serif;
+}
