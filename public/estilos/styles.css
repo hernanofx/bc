@@ -2035,7 +2035,12 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 .cursor {cursor:pointer}
 
 /* Fuente para el menu */
-.menufont {
-    font-size: 16px;
+.submenu {
+    font-size: 20px;
     font-family: 'Lobster', cursive;
+}
+
+.menuhome {
+    font-size: 16px;
+    font-family: 'Bangers', cursive;
 }
