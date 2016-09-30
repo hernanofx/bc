@@ -2068,6 +2068,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 /* Clase para el footer de redes sociales */
 
 .footertype, .footertypehover:hover {
-    color: #fff!important;
-    background-color: #B1BAC4!important
+    color: #000000|!important;
+    background-color: transparent;
+
 }
