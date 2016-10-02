@@ -73,6 +73,10 @@ get '/salon' do
   erb :'fechas/salon'
 end
 
+get '/salon2' do
+  erb :'fechas/salon2'
+end
+
 get '/whitevinyl' do
   erb :'fechas/whitevinyl'
 end
