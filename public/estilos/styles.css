@@ -2072,6 +2072,8 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
     background-color: transparent;
 }
 
+/* Clase para categorias de paginas interiores */
+
 .textocategorias {
     font-size: 20px;
     font-family: 'Shrikhand', cursive;
