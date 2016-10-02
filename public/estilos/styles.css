@@ -2070,5 +2070,8 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 .footertype, .footertypehover:hover {
     color: #000000|!important;
     background-color: transparent;
+}
 
+.fondosdepagina {
+    background-color: transparent;
 }
