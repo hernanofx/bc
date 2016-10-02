@@ -2082,6 +2082,6 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 
 .textodescripcion {
     font-size: 18px;
-    font-family: 'Shrikhand', cursive;
-    color: #000000;
+    font-family: 'Anton', sans-serif;
+    color: #2E5FEC;
 }
