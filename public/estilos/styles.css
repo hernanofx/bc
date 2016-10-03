@@ -2085,3 +2085,9 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
     font-family: 'Permanent Marker';
     color: #000000;
 }
+
+.texttercernivel {
+    font-size: 16px;
+    font-family: 'Anton', sans-serif;
+    color: #616161;
+}
