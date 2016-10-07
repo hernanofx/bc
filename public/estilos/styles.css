@@ -2059,7 +2059,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 }
 
 .textomenucentro {
-    font-size: 44px;
+    font-size: 38px;
     font-family: 'Finger Paint', cursive;
     text-align: left;;
     color: #FFFFFF;
@@ -2078,6 +2078,12 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
     font-size: 20px;
     font-family: 'Permanent Marker', cursive;
     color: #000000;
+}
+
+.textocategorias2 {
+    font-size: 20px;
+    font-family: 'Permanent Marker';
+    color: #E63A3A;
 }
 
 .textodescripcion {
