@@ -61,6 +61,10 @@ get '/nosotros' do
   erb :'secciones/nosotros'
 end
 
+get '/votaciones' do
+  erb :'secciones/nosotros'
+end
+
 get '/shows' do
   erb :'secciones/shows'
 end
