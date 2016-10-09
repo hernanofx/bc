@@ -62,7 +62,7 @@ get '/nosotros' do
 end
 
 get '/votaciones' do
-  erb :'secciones/nosotros'
+  erb :'secciones/votaciones'
 end
 
 get '/shows' do
