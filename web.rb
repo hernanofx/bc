@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'sinatra'
 
+
 get '/' do
   erb :index
 end
@@ -8,6 +9,8 @@ end
 get '/' do
   erb :layout
 end
+
+# Paginas de secciones
 
 get '/home' do
   erb :index
@@ -69,6 +72,7 @@ get '/shows' do
   erb :'secciones/shows'
 end
 
+# Paginas de recitales
 get '/locabohemia' do
   erb :'fechas/locabohemia'
 end
@@ -87,6 +91,10 @@ end
 
 get '/pquesaavedra' do
   erb :'fechas/pquesaavedra'
+end
+
+get '/clubv' do
+  erb :'fechas/clubv'
 end
 
 get '/fiestadelaflor' do
