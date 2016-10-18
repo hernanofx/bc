@@ -2030,20 +2030,14 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 }
 
 #menumusica:hover {
-    font-size: 40px;
-    font-family: 'Bangers', cursive;
     color: #E1112B;
 }
 
 #menushow:hover {
-    font-size: 40px;
-    font-family: 'Bangers', cursive;
     color: #796800;
 }
 
 #menunosotros:hover {
-    font-size: 40px;
-    font-family: 'Bangers', cursive;
     color: #2AB705;
 }
 
