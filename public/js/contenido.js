@@ -1,1 +1,1 @@
-var $button = $('.proximosshows').clone(); $('.proximosshowsmobile').html($button);
+var $proximosshows = $('.proximosshows').clone(); $('.proximosshowsmobile').html($proximosshows);
