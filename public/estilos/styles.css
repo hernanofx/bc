@@ -2077,24 +2077,6 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
     color: #FFFFFF;
 }
 
-#textomenumobilemusica {
-    font-size: 10px;
-    font-family: 'Bangers', cursive;
-    color: #A32535;
-}
-
-#textomenumobileshows {
-    font-size: 10px;
-    font-family: 'Bangers', cursive;
-    color: #E6D672;
-}
-
-#textomenumobilenosotros {
-    font-size: 10px;
-    font-family: 'Bangers', cursive;
-    color: #43962D;
-}
-
 
 /* Clase para el footer de redes sociales */
 
