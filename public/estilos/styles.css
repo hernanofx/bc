@@ -1980,7 +1980,7 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 }
 
 
-/* Botonera de redes sociales */
+/* Botonera de redes sociales y menu*/
 
 .social:hover {
     -webkit-transform: scale(1.1);
@@ -2027,6 +2027,18 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 
 #social-ho:hover {
     color: #0A9C14;
+}
+
+#menumusica:hover {
+    color: #E1112B;
+}
+
+#menushow:hover {
+    color: #9E8D1D;
+}
+
+#menunosotros:hover {
+    color: #2AB705;
 }
 
 /* Puntero del mouse en slide */
