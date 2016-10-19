@@ -2046,7 +2046,9 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 .mySlides {display:none}
 .cursor {cursor:pointer}
 
+
 /* Fuente para el menu */
+
 .submenu {
     font-size: 18px;
     font-family: 'Bangers', cursive;
@@ -2120,4 +2122,12 @@ body {
 }
 .mySlides {
     display: none;
+}
+
+/* Efectos de rotación para el menú */
+
+.rotate :hover {
+-webkit-transform:rotateZ (-30deg);
+-ms-transform:rotateZ (-30deg);
+transform:rotateZ (-30deg);
 }
