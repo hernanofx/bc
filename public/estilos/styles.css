@@ -2178,19 +2178,6 @@ body {
   }
 }
 
-/* Other styles */
-html, body {
-  height: 100%;
-}
-
-body {
-  background: #212121;
-  background-size: .2em 100%;
-  font: 14.5em/1 Open Sans, Impact;
-  text-transform: uppercase;
-  margin: 0;
-}
-
 svg {
   position: absolute;
   width: 100%;
