@@ -1,3 +1,11 @@
+window.fbAsyncInit = function() {
+    FB.init({
+        appId: '870514156382545',
+        xfbml: true,
+        version: 'v2.8'
+    });
+};
+
 (function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
