@@ -2126,7 +2126,7 @@ body {
 
 /* Efectos de rotación para el menú */
 
-.rotate :hover {
+.rotate {
 -webkit-transform:rotateZ (-30deg);
 -ms-transform:rotateZ (-30deg);
 transform:rotateZ (-30deg);
