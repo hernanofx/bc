@@ -89,6 +89,10 @@ get '/whitevinyl' do
   erb :'fechas/whitevinyl'
 end
 
+get '/whitevinyl' do
+  erb :'fechas/whitevinyl2'
+end
+
 get '/pquesaavedra' do
   erb :'fechas/pquesaavedra'
 end
