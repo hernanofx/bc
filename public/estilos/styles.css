@@ -2055,22 +2055,20 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 }
 
 .menuhomerojo {
-    font-size: 30px;
-    font-family: 'Codystar', cursive;
-
+    font-size: 40px;
+    font-family: 'Fascinate Inline', cursive;
     color: #A32535;
 }
 
 .menuhomeamarillo {
-    font-size: 30px;
-    font-family: 'Codystar', cursive;
-
+    font-size: 40px;
+    font-family: 'Fascinate Inline', cursive;
     color: #E6D672;
 }
 
 .menuhomeverde {
-    font-size: 30px;
-    font-family: 'Codystar', cursive;
+    font-size: 40px;
+    font-family: 'Fascinate Inline', cursive;
     color: #43962D;
 }
 
