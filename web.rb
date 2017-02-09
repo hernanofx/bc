@@ -104,3 +104,11 @@ end
 get '/fiestadelaflor' do
   erb :'fechas/fiestadelaflor'
 end
+
+get '/monociclo' do
+  erb :'fechas/monociclo'
+end
+
+get '/carnal' do
+  erb :'fechas/carnal'
+end
