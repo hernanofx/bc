@@ -72,10 +72,6 @@ get '/shows' do
   erb :'secciones/shows'
 end
 
-get '/banda' do
-  erb :'secciones/banda'
-end
-
 
 # Paginas de recitales
 get '/locabohemia' do
