@@ -113,3 +113,7 @@ end
 get '/carnal' do
   erb :'fechas/carnal'
 end
+
+get '/makena' do
+  erb :'fechas/makena'
+end
