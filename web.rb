@@ -125,3 +125,11 @@ end
 get '/emergente' do
   erb :'fechas/emergente'
 end
+
+get '/birmania' do
+  erb :'fechas/birmania'
+end
+
+get '/verdi' do
+  erb :'fechas/verdi'
+end
