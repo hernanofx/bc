@@ -133,3 +133,7 @@ end
 get '/verdi' do
   erb :'fechas/verdi'
 end
+
+get '/gier' do
+  erb :'fechas/gier'
+end
