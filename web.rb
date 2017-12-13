@@ -122,6 +122,10 @@ get '/makena2' do
   erb :'fechas/makena2'
 end
 
+get '/makena3' do
+  erb :'fechas/makena3'
+end
+
 get '/emergente' do
   erb :'fechas/emergente'
 end
