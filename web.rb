@@ -145,3 +145,7 @@ end
 get '/espresso' do
   erb :'fechas/espresso'
 end
+
+get '/fusion' do
+  erb :'fechas/fusion'
+end
