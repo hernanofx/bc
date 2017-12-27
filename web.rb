@@ -15,6 +15,7 @@ end
 get '/home' do
   erb :index
 end
+
 get '/home2' do
   erb :index2
 end
