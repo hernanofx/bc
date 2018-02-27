@@ -138,6 +138,10 @@ get '/birmania' do
   erb :'fechas/birmania'
 end
 
+get '/birmania2' do
+  erb :'fechas/birmania2'
+end
+
 get '/verdi' do
   erb :'fechas/verdi'
 end
