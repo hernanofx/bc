@@ -158,6 +158,10 @@ get '/fusion' do
   erb :'fechas/fusion'
 end
 
+get '/clubaraoz' do
+  erb :'fechas/clubaraoz'
+end
+
 get '/ultrabar' do
   erb :'fechas/ultrabar'
 end
