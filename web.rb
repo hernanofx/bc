@@ -157,3 +157,7 @@ end
 get '/fusion' do
   erb :'fechas/fusion'
 end
+
+get '/ultrabar' do
+  erb :'fechas/ultrabar'
+end
