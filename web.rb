@@ -165,3 +165,7 @@ end
 get '/ultrabar' do
   erb :'fechas/ultrabar'
 end
+
+get '/konex' do
+  erb :'fechas/konex'
+end
