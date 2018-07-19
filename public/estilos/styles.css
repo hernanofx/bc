@@ -2058,22 +2058,22 @@ input[type=checkbox].w3-check:disabled+.w3-validate, input[type=radio].w3-radio:
 /* Fuente para el menu */
 
 .submenu {
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Bangers', cursive;
 }
 
 .menuhomerojo {
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Days One', sans-serif, cursive;
 }
 
 .menuhomeamarillo {
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Days One', sans-serif, cursive;
 }
 
 .menuhomeverde {
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Days One', sans-serif, cursive;
 }
 
