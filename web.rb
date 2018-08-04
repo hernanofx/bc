@@ -166,7 +166,7 @@ get '/ultrabar' do
   erb :'fechas/ultrabar'
 end
 
-get '/ultrabar' do
+get '/ultrabar2' do
   erb :'fechas/ultrabar2'
 end
 
