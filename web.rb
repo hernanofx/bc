@@ -173,3 +173,7 @@ end
 get '/konex' do
   erb :'fechas/konex'
 end
+
+get '/galponb' do
+  erb :'fechas/galponb'
+end
